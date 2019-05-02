@@ -1,0 +1,26 @@
+{
+  "id": 0,
+  "cartLines": [
+    {
+      "id": 2,
+      "qty": 100,
+      "product": {
+        "id": 2,
+        "name": "Win 2.0",
+        "price": 199.99,
+        "image": "https://storage.googleapis.com/webdesignledger.pub.network/WDL/9a62633f-3757.windows-1_0-logo.png"
+      }
+    },
+    {
+      "id": 1,
+      "qty": 6,
+      "product": {
+        "id": 1,
+        "name": "Win 1.0",
+        "price": 999.99,
+        "image": "https://storage.googleapis.com/webdesignledger.pub.network/WDL/9a62633f-3757.windows-1_0-logo.png"
+      }
+    }
+  ],
+  "totalSum": 25998.94
+}

@@ -1,0 +1,1 @@
+(was java.lang.NullPointerException) (through reference chain: java2.jpa.entities.Cart["totalSum"])

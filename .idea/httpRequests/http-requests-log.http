@@ -1,0 +1,464 @@
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T034926.200.json
+
+###
+
+GET http://localhost:8088/labas/api/cart/list
+Content-Type: application/json
+Accept: application/json
+
+<> 2019-04-27T034855.200.json
+
+###
+
+GET http://localhost:8088/labas/api/cart/1
+Accept: application/json
+Content-Type: application/json
+
+###
+
+GET http://localhost:8088/labas/api/cart/1/
+Accept: application/json
+Content-Type: application/json
+
+###
+
+GET http://localhost:8088/labas/api/cart/1/f
+Accept: application/json
+Content-Type: application/json
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T034703.200.json
+
+###
+
+DELETE http://localhost:8088/labas/api/cart/deleteCart/2
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+DELETE http://localhost:8088/labas/api/cart/deleteCart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+DELETE http://localhost:8088/labas/api/cart/deleteCart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T034544.200.json
+
+###
+
+DELETE http://localhost:8088/labas/api/cart/deleteCart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+DELETE http://localhost:8088/labas/api/cart/deleteCart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T034530.200.json
+
+###
+
+DELETE http://localhost:8088/labas/api/cart/deleteCart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+DELETE http://localhost:8088/labas/api/cart/deleteCart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=C6FF66813C182B1B3E24AAB1ED978C74
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T034455.200.json
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{}
+
+<> 2019-04-27T034009.200.json
+
+###
+
+GET http://localhost:8088/ecommerce/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T033944.404.html
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{}
+
+<> 2019-04-27T033926.200.json
+
+###
+
+POST http://localhost:8088/labas/api/cart/add
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 2,
+  "qty": 100
+}
+
+<> 2019-04-27T033812.200.json
+
+###
+
+POST http://localhost:8088/labas/api/cart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 2,
+  "qty": 100
+}
+
+###
+
+POST http://localhost:8088/labas/api/cart/add
+Content-Type: application/json
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 1,
+  "qty": 2
+}
+
+<> 2019-04-27T033747.200.json
+
+###
+
+POST http://localhost:8088/labas/api/cart/add
+Content-Type: application/json
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 1,
+  "qty": 2
+}
+
+<> 2019-04-27T033739.200.json
+
+###
+
+GET http://localhost:8088/ecommerce/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T033726.404.html
+
+###
+
+GET http://localhost:8088/labas/api/cart/1/f
+Accept: application/json
+Content-Type: application/json
+
+###
+
+GET http://localhost:8088/labas/api/cart/list
+Content-Type: application/json
+Accept: application/json
+
+<> 2019-04-27T033646.200.json
+
+###
+
+GET http://localhost:8088/labas/api/cart/list
+Content-Type: application/json
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T033616.200.json
+
+###
+
+GET http://localhost:8088/labas/api/cart/list
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+<> 2019-04-27T033557.200.json
+
+###
+
+POST http://localhost:8088/labas/api/cart/add
+Content-Type: application/json
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 1,
+  "qty": 2
+}
+
+<> 2019-04-27T033546.200.json
+
+###
+
+GET http://localhost:8080/ecommerce/api/cart/list
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+###
+
+POST http://localhost:8080/labas/api/cart/add
+Content-Type: application/json
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 1,
+  "qty": 2
+}
+
+###
+
+POST http://localhost:8088/labas/api/cart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 1,
+  "qty": 100
+}
+
+###
+
+POST http://localhost:8088/ecommerce/api/cart/1
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 1,
+  "qty": 100
+}
+
+<> 2019-04-27T033404.404.html
+
+###
+
+POST http://localhost:8088/ecommerce/api/cart/1
+Content-Type: application/json
+Accept: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{
+  "id": 1,
+  "qty": 100
+}
+
+<> 2019-04-27T033339.404.html
+
+###
+
+POST http://localhost:8088/ecommerce/api/cart/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": 1,
+  "qty": 100
+}
+
+<> 2019-04-27T033327.404.html
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=71443895C64E16E46F68C6BAA7C63040
+
+{}
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+
+{}
+
+###
+
+GET http://localhost:8088/labas/api/product/list
+Accept: application/json
+
+<> 2019-04-27T030952.200.json
+
+###
+
+GET http://localhost:8088/labas/api/product/list?size=3&skip=2
+Accept: application/json
+Set-Cookie:
+
+<> 2019-04-27T030943.200.json
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+
+{}
+
+###
+
+POST http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+
+{}
+
+<> 2019-04-23T102450.400.txt
+
+###
+
+POST http://localhost:8088/ecommerce/api/cart/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": 1,
+  "qty": 100
+}
+
+<> 2019-04-23T082129.404.html
+
+###
+
+POST http://localhost:8088/ecommerce/api/cart/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": 1,
+  "qty": 100
+}
+
+<> 2019-04-22T072936.404.html
+
+###
+
+POST http://localhost:8080/ecommerce/api/cart/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": 1,
+  "qty": 100
+}
+
+###
+
+POST http://localhost:8080/ecommerce/api/cart
+Content-Type: application/json
+Accept: application/json
+
+{}
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+Cookie: JSESSIONID=F4F95F2979E82EA9A8634444B302C028
+
+{}
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+
+{}
+
+###
+
+GET http://localhost:8088/labas/api/cart
+Accept: application/json
+Content-Type: application/json
+
+{}
+
+###
+

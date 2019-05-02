@@ -1,0 +1,16 @@
+{
+  "id": 0,
+  "cartLines": [
+    {
+      "id": 1,
+      "qty": 4,
+      "product": {
+        "id": 1,
+        "name": "Win 1.0",
+        "price": 999.99,
+        "image": "https://storage.googleapis.com/webdesignledger.pub.network/WDL/9a62633f-3757.windows-1_0-logo.png"
+      }
+    }
+  ],
+  "totalSum": 3999.96
+}
